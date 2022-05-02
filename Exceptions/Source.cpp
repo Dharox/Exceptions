@@ -52,7 +52,8 @@ int main()
 		cin >> again;
 	}
 
-
+	cout << "\nThank you, goodbye!" << endl;
+	return 0;
 }
 
 char Character(char start, int offset)
